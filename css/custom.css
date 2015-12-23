@@ -1,6 +1,6 @@
 body{
 	padding-top: 50px;
-
+	
 }
 
 ul.nav,.jumbotron h1 {
@@ -17,6 +17,15 @@ footer{
 	background-color: #f5f5f5;
 }
 
+#back-to-top{
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+}
+
+#back-to-top a{
+	color: #333;
+}
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/hero_image.jpg');
